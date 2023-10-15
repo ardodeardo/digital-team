@@ -24,11 +24,11 @@ function Team() {
       position: "Backend Developer",
       image: "iqbal.png",
     },
-    {
-      name: "Riza Pahlevi",
-      position: "UI/UX Designer",
-      image: "riza.png",
-    },
+    // {
+    //   name: "Riza Pahlevi",
+    //   position: "UI/UX Designer",
+    //   image: "riza.png",
+    // },
     {
       name: "Wendy Sunanda",
       position: "Project Manager",
@@ -60,7 +60,7 @@ function Team() {
     <section className="py-[64px] md:py-[100px] dark:bg-black overflow-hidden">
       <div className="container mx-auto">
         <h2 className="font-objectivity text-[36px] leading-[44px] font-bold dark:text-[#C9C9C9]">
-          Our partners in crime
+          Meet the team
         </h2>
 
         <div className="grid grid-cols-2 md:grid-cols-4 gap-y-[24px] md:gap-y-[28px] mt-10">

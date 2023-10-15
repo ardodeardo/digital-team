@@ -24,7 +24,7 @@ function WeDo() {
       shifted: true,
     },
     {
-      title: "Creative Design",
+      title: "Creative & Design",
       image: "andras-vas-Bd7gNnWJBkU-unsplash.jpg",
       shifted: false,
     },
