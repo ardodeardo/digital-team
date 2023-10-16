@@ -23,7 +23,7 @@ function Footer() {
             </span>
           </div>
           <p className="font-objectivity text-base leading-[24px] mt-8 dark:text-[#C9C9C9]">
-            Copyright © 2023. mytripology. All Rights Reserved. Ruko L'Agricola
+            Copyright © 2023. mytripology. All Rights Reserved. Ruko L&apos;Agricola
             C/16, Jl. Raya Curug Sangereng. 3rd Floor. Tangerang. Indonesia.
           </p>
         </div>
