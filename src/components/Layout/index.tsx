@@ -17,7 +17,7 @@ function Layout(props: Layout) {
       className={`${branch.variable} ${objectivity.variable} font-objectivity`}
     >
       <Head>
-        <title>dev.team</title>
+        <title>digital.team</title>
         <link rel="canonical" href="https://digital-team.vercel.app" />
         <meta
           name="description"

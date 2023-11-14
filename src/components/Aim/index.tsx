@@ -8,14 +8,15 @@ function Aim() {
           We are aiming for
         </h2>
         <p className="font-objectivity text-[20px] md:text-[24px] font-medium leading-[36px] md:leading-[44px] mt-6 md:mt-10 dark:text-[#C9C9C9]">
-          Harness the power of technology and digital solutions to elevate
-          mytripology, enhance traveler experiences, drive growth, and stay
-          ahead in the ever-evolving digital landscape.
+          Our mission is to empower our digital team to create cutting-edge
+          technology solutions that solve complex problems, inspire innovation,
+          and exceed client expectations.
           <br />
           <br />
-          We are committed to delivering cutting-edge strategies, innovative
-          solutions, and exceptional digital experiences that enable mytripology
-          to thrive in a digital-first world.
+          We strive to foster a collaborative and supportive environment that
+          encourages continuous learning, growth, and personal development.
+          Through our passion for excellence, we aim to make a positive impact
+          on businesses and communities worldwide.
         </p>
       </div>
     </section>
