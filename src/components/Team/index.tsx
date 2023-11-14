@@ -10,29 +10,24 @@ interface ITeam {
 function Team() {
   const people: ITeam[] = [
     {
-      name: "Deardo Dibrianto",
+      name: "FE Developer",
       position: "Front End Developer",
-      image: "ardo.png",
+      image: "square.jpg",
     },
     {
-      name: "Elvin Vinsky",
-      position: "Digital Marketing",
-      image: "elvin.png",
+      name: "BE Developer",
+      position: "Back End Developer",
+      image: "square.jpg",
     },
     {
-      name: "Iqbal Muharram",
-      position: "Backend Developer",
-      image: "iqbal.png",
+      name: "Designer",
+      position: "UI/UX Designer",
+      image: "square.jpg",
     },
-    // {
-    //   name: "Riza Pahlevi",
-    //   position: "UI/UX Designer",
-    //   image: "riza.png",
-    // },
     {
-      name: "Wendy Sunanda",
-      position: "Project Manager",
-      image: "wendy.png",
+      name: "Data Analyst",
+      position: "Data Analyst",
+      image: "square.jpg",
     },
   ];
 

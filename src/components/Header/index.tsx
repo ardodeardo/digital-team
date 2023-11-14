@@ -32,7 +32,7 @@ function Header() {
               fillColor="#000"
             ></Globe>
             <span className="font-objectivity text-[20px] md:text-[24px] font-bold dark:text-[#C9C9C9]">
-              mytripology.digitalteam
+              dev.team
             </span>
           </div>
           <div>

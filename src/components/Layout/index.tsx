@@ -17,11 +17,11 @@ function Layout(props: Layout) {
       className={`${branch.variable} ${objectivity.variable} font-objectivity`}
     >
       <Head>
-        <title>mytripology | digital team</title>
-        <link rel="canonical" href="https://inquire-bali.mytripology.com" />
+        <title>dev.team</title>
+        <link rel="canonical" href="https://digital-team.vercel.app" />
         <meta
           name="description"
-          content="A full-service travel company that emphasizes delivering tailor-made itineraries to meet your preferences perfectly."
+          content="Dev Team Heroes: Shaping the Future of Technology"
         />
       </Head>
 

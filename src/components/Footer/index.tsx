@@ -19,12 +19,11 @@ function Footer() {
               height={sm() ? "20" : "24"}
             ></Globe>
             <span className="font-objectivity text-[20px] md:text-[24px] font-bold dark:text-[#C9C9C9]">
-              mytripology.digitalteam
+              dev.team
             </span>
           </div>
           <p className="font-objectivity text-base leading-[24px] mt-8 dark:text-[#C9C9C9]">
-            Copyright © 2023. mytripology. All Rights Reserved. Ruko L&apos;Agricola
-            C/16, Jl. Raya Curug Sangereng. 3rd Floor. Tangerang. Indonesia.
+            Copyright © 2023. dev.team. All Rights Reserved. 600 Amphitheatre Parkway in Mountain View, California.
           </p>
         </div>
       </div>

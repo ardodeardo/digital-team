@@ -29,7 +29,7 @@ function WeDo() {
       shifted: false,
     },
     {
-      title: "Brand & Analytics",
+      title: "Data & Analytics",
       image: "maximalfocus-HakTxidk36I-unsplash.jpg",
       shifted: true,
     },
