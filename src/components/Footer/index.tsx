@@ -23,7 +23,7 @@ function Footer() {
             </span>
           </div>
           <p className="font-objectivity text-base leading-[24px] mt-8 dark:text-[#C9C9C9]">
-            Copyright © 2023. dev.team. All Rights Reserved. 600 Amphitheatre Parkway in Mountain View, California.
+            Copyright © 2023. digital.team. All Rights Reserved. 600 Amphitheatre Parkway in Mountain View, California.
           </p>
         </div>
       </div>
